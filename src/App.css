@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jacquarda+Bastarda+9&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+  margin: 3%;
+  padding: 0;
+  background-color: rgb(43, 43, 43);
+  color: whitesmoke;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  overflow: hidden;
+}
+.heading{
+  font-size: 60px;
+}
+.numbers-iterate{
+  border: 1px solid white;
+  border-radius: 25px;
+  width: 60%;
+  margin: 10px 0 0 20%;
+}
+.numbers{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 70px;
+}
+.startBtn{
+  height: 8vh;
+  width: 22%;
+  font-size: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  background-color: rgb(54, 233, 57);
+  color: black;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.resetBtn{
+  height: 8vh;
+  width: 22%;
+  font-size: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  background-color: rgb(230, 11, 11);
+  color: white;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
